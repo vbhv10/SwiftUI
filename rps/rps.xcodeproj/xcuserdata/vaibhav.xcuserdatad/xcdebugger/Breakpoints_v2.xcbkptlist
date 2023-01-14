@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "74EE4696-D295-41BE-A076-4ED700C97597"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD0522F3-1E3D-451B-A102-713F3C7B4BCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rps/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "checkValue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD0522F3-1E3D-451B-A102-713F3C7B4BCB - 57bcad7f43221945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rps.ContentView.checkValue(Swift.String) -&gt; ()"
+                  moduleName = "rps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/work/study/swift/practice/rps/rps/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "952">
+               </Location>
+               <Location
+                  uuid = "DD0522F3-1E3D-451B-A102-713F3C7B4BCB - 57bcad7f43221945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rps.ContentView.checkValue(Swift.String) -&gt; ()"
+                  moduleName = "rps"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/work/study/swift/practice/rps/rps/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
